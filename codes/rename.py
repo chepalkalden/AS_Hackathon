@@ -3,7 +3,7 @@ Renaming the columns of dataframe
 '''
 
 rename_column_mapping ={
-    'B1':{
+    'TX':{
                 'Group No.':'groupnumber',
                 'Section No.':'sectionnumber', 
                 'Section Description':'sectiondescription', 
@@ -21,7 +21,7 @@ rename_column_mapping ={
                 'remarks':'remarks', 
                 'drop_yn':'drop_yn'
     },
-    'B2':{
+    'IL':{
                 'Group No.':'groupnumber',
                 'Section No.':'sectionnumber', 
                 'Section Description':'sectiondescription', 
