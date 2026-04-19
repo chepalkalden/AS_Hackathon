@@ -1,0 +1,26 @@
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables
+.env
+.env.local
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+# Add any generated PDFs, output tables or temporary images here if needed

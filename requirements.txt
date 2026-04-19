@@ -1,0 +1,13 @@
+streamlit
+Pillow
+pandas
+numpy
+pytesseract
+python-docx
+fpdf
+opencv-python
+PyMuPDF
+autocorrect
+textblob
+openpyxl
+rapidfuzz
